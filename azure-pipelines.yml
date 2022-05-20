@@ -44,7 +44,7 @@ steps:
   parameters:
     buildConfiguration: 'Debug'
 
-- templates: templates/buil.yml
+- template: templates/buil.yml
   parameters:
     buildConfiguration: 'Release' 
 
